@@ -9,6 +9,6 @@ package org.example.path.to.plugin;
 
 import org.opensearch.test.OpenSearchTestCase;
 
-public class RenameTests extends OpenSearchTestCase {
+public class The_first_oneTests extends OpenSearchTestCase {
     // Add unit tests for your plugin
 }
