@@ -10,6 +10,6 @@ package org.example.path.to.plugin;
 import org.opensearch.plugins.Plugin;
 
 
-public class RenamePlugin extends Plugin {
+public class Opensearch_java_Plugin extends Plugin {
     // Implement the relevant Plugin Interfaces here
 }
